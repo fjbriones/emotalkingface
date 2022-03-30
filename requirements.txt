@@ -48,11 +48,11 @@ tqdm==4.42.0
 urllib3==1.25.8
 visdom==0.1.8.9
 websocket-client==0.57.0
-mkl-fft==1.0.15
-mkl-service==2.3.0
-opencv-python==4.1.1.26
-opencv-python-headless==4.1.2.30
-torch==1.4.0
-torchvision==0.5.0
+mkl-fft
+mkl-service
+opencv-python
+opencv-python-headless
+torch
+torchvision
 tqdm
 visdom
